@@ -2,7 +2,7 @@
 
 ## 최종 순위 (23.11.06. 기준)
 
-### Kim & Hwang
+### 팀명: Kim & Hwang
 
 |Public|Private|
 |----|---|
